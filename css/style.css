@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: Arial, Arial, Helvetica, sans-serif;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.header-bg {
+  background-color: #000000;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  box-sizing: border-box;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header-menu {
+  display: flex;
+  gap: 40px;
+}
+.header-menu a {
+  padding: 16px 0px;
+  display: inline-block;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.125rem;
+}
