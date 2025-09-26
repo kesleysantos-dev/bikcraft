@@ -19,6 +19,7 @@
   grid-template-columns: 1fr auto;
 }
 .seguros h3 {
+  margin-top: 20px;
   margin-bottom: 40px;
 }
 .seguros-item span {
@@ -27,7 +28,7 @@
   text-align: right;
 }
 
-.seguros-item li + li {
+.seguros-item li  {
   margin-bottom: 40px;
 }
 .seguros-item li {
@@ -54,4 +55,5 @@
   .seguros {
     grid-template-columns: 1fr;
   }
+  .
 }
