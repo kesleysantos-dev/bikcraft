@@ -5,6 +5,7 @@
 
 /*Home*/
 @import "./Home/introducao.css";
+@import "./Home/tecnologia.css";
 /*Utilidades*/
 @import "./utilidades/componentes.css";
 /*Bicicletas*/
