@@ -28,7 +28,7 @@
   text-align: right;
 }
 
-.seguros-item li  {
+.seguros-item li {
   margin-bottom: 40px;
 }
 .seguros-item li {
@@ -55,5 +55,4 @@
   .seguros {
     grid-template-columns: 1fr;
   }
-  .
 }

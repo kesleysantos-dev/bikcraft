@@ -17,7 +17,6 @@
   background: linear-gradient(#cfa006, #edcb0f);
   font: 600 1.125rem/1.35 "poppins", sans-serif;
   max-width: max-content;
-  margin-bottom: 40px;
 }
 .botao:hover {
   background: linear-gradient(#b38a05, #d4b40d);
